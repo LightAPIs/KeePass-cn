@@ -8,7 +8,7 @@
 ## 步骤
 
 1. 下载&安装：[KeePass](https://keepass.info/)
-2. 下载简体中文语言包：[Releases](/releases)
+2. 下载简体中文语言包：[Releases](https://github.com/LightAPIs/KeePass-cn/releases)
 3. 解压将 `Chinese_Simplified.lngx` 文件放至 KeePass 程序目录下 `Languages` 文件夹中(*存在则替换*)
 4. 启动 KeePass 选择语言(*已选择可忽略*)
 
