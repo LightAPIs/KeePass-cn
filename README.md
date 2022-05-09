@@ -2,8 +2,8 @@
 
 [KeePass](https://keepass.info/) 简体中文语言包
 
-- 当前支持版本：2.50+
-- 更新时间：2022-01-15
+- 当前支持版本：2.51+
+- 更新时间：2022-05-09
 
 ## 步骤
 
@@ -21,6 +21,7 @@
 | AssociationsLower | association(s)   |
 | KeyFileSase       | KeyFile          |
 | MoreAnd           | and {PARAM} more |
+| Selected          | Selected         |
 
 ## 声明
 
